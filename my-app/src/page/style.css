@@ -1,0 +1,25 @@
+.manImg{
+    height: 300px;
+    width:240px ;
+    position: absolute;
+    top: 30px;
+    left: 0;
+}
+.img_container p{
+    margin-top: 330px;
+    padding: 25px 0 25px 10px;
+    font-size: 10px;
+}
+.heading{
+    margin-left: 536px;
+    padding-top: 118px;
+}
+
+.heading h1{
+    width: 240px;
+    height: 66px;
+    color:white
+}
+.heading h5{
+    margin-top:18px;
+}
